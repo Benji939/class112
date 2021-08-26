@@ -1,0 +1,50 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #05c3ed;
+}
+.header{
+    background: white;
+    color: teal;
+}
+.header img{
+width: 100px;
+}
+#camera, #snapshot{
+border: 2px black dashed;
+height: 300px;
+width:350px;
+
+}
+.main_div label{
+background: white;
+width: 350px;
+padding: 10px;
+box-shadow: 5px 5px 18px gray;
+}
+.main_div button{
+    width: 350px;
+    font-size: 15px;
+    box-shadow: 5px 5px 18px gray;
+    border: 5px white solid;
+}
+.footer_div{
+    margin-bottom: 30px;
+}
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 18px gray;
+}
+.footer_div img{
+    width: 70px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: whitesmoke;
+    color: rgb(118, 118, 118);
+    text-align: center;
+    line-height: 4;
+}
